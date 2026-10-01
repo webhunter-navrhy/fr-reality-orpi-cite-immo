@@ -1,0 +1,11 @@
+# Orpi - Cité Immo
+
+> Les biens de l'agence Orpi - Cité Immo.
+
+- E-mail: citeimmo@orpi.com
+- Site web: http://www.orpi.com/citeimmo
+- Adresse: 44 Rue Michel Servet, 69100 Villeurbanne
+
+## Biens (2)
+- Vente appartement 1 pièce 24.78 m² à Lyon 3ème (69) — Part Dieu, 150 000 €: vente-appartement-1-piece-24-78-m2-a-lyon-3eme-69-103836739/
+- Vente appartement 2 pièces 39.6 m² à Lyon 5ème (69) — Vieux Lyon, 219 000 €: vente-appartement-2-pieces-39-6-m2-a-lyon-5eme-69-104254203/
